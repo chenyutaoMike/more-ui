@@ -1,0 +1,10 @@
+// 配置SCSS
+@import 'variables';
+// 初始化SCSS
+@import 'reboot';
+
+// mixin
+@import 'mixin.scss';
+
+
+@import '../components/Button/style'
